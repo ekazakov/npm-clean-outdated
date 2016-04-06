@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+npmCleanOutdated = require('./../index.js');
+
+npmCleanOutdated.run();

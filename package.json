@@ -1,0 +1,19 @@
+{
+  "name": "npm-clean-outdated",
+  "version": "1.0.0",
+  "description": "Clean outdated and extraneous",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "lodash": "4.8.2",
+    "npm": "3.8.6"
+  },
+  "bin": {
+    "npm-clean-outdated": "./bin/npm-clean-outdated"
+  }
+}

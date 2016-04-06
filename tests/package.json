@@ -1,0 +1,7 @@
+{
+  "name": "tests",
+  "dependencies": {
+    "history": "^1.17.0",
+    "react-router": "^1.0.1"
+  }
+}
